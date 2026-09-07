@@ -490,8 +490,6 @@ Para preguntas, informes técnicos, cuestiones de atribución o licencias comerc
 
 -----------
 
----
-
 # Qwen Image Western European American Female NSFW LoRA v1
 
 ## From Atlantic stone to Pacific light—Western character without anatomical overreach.
